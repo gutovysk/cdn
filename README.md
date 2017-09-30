@@ -1,0 +1,2 @@
+# cdn
+servir arquivos estáticos
